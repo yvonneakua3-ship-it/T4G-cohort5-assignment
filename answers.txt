@@ -1,0 +1,22 @@
+Q1. When you type google.com in the address bar it takes you to the homepage of the webpage
+Q2. The difference between a client and server is that a client is a device used to send and recieve instructions whilst a server is the device that fulfills the request. 
+Example when you type a website name in the your browser the client sends the message the server and the server recieves it and  finds the right information.
+Q3. DNS which is the acronym for Domain Name System which is used resolve the domain name associated with the world wide web ip addresses. It translates human-readable 
+domain names into machine readable ip address.
+We need DNS because it bridges the gap between how humans think and how computers work.
+Q4. Firewall inspects incoming and outgoing network traffic and blocks unauthorized access WHILST a load balancer distributes incoming traffic evenly among multiple serevers. 
+Q5. A web server's core job is handling HTTP requests and responses. It serves static content like HTML, CSS, JavaScript, images, files whilst an application server hosts
+and runs actual application code. The application server does the backend developer work because that is where the code lives
+Q6a.  The client never communicates directly with the database because exposing it to the open internet creates massive security vulnerabilities, 
+allows users to bypass business logic, and prevents scaling
+Q6b. Having an application server in between provides centralized security by hiding database credentials,
+enforces business logic and data validation uniformly, and enables scalability through connection pooling and caching.
+Q7.  It is a static website and this is because the university department page can be viewed by many people who are going to see the same interface
+but the MTN MOMO in dynamic because even though the interface will be the same, the account balance will differ from multiple users.
+Q8. The frontend is basically the interface you see and interact with whilst the backend is what happens behind the frontend that the users cannot see. The backend receives all inputs and processes it to bring out data/information.
+Q9. Backend developers rely on the command line because most servers, databases, deployment tools, and automation workflows have no graphical interface and are only accessible or efficiently operable through terminal commands
+Q10. An absolute path always starts from the root of the file system and points to the exact location regardless of your current directory (e.g., /home/user/projects/app.js on Linux or C:\Users\User\projects\app.js on Windows), while a relative path starts from your current working directory and can point to different files depending on where you are (e.g., ./projects/app.js or ../app.js).
+Q11. I would tell them that while File Explorer is great for clicking through folders, but the CLI gives you the ability to automate tedious tasks, instantly search and filter thousands of files at once, and manage servers where a visual interface doesn't even exist
+Q12. In the terminal, the ~ symbol which is called tilde represents the current user's home directory, while the $ symbol which is called the dollar sign is the command prompt shell marker indicating that the terminal is ready to accept commands from a regular, non-root user. It's not something you type yourself.
+ 
+ 
